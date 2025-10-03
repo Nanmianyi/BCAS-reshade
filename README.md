@@ -1,4 +1,4 @@
-![《暖阳入室•馥郁轻尝》](https://github.com/user-attachments/assets/d0cafccb-2a15-4b0a-a5e5-97591e38ba71)# BCAS-reshade
+BCAS-reshade
 The most advanced bilateral filtering sharpening shader in Reshade, featuring multiple color adjustment capabilities with minimal performance overhead.
 一种结合双边滤波分解、软限制抗过冲与 SCAA边缘解析的实时锐化变种，并提供功能完善的调色（可选）。
 
@@ -17,5 +17,6 @@ AURA：统一软限制抗过冲与能量压缩
 LUT 集成（可选）
 调试模式
 ![Uploading 知更鸟.png…]()
+
 
 🚀
