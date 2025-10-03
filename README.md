@@ -17,7 +17,4 @@ AURA：统一软限制抗过冲与能量压缩
 LUT 集成（可选）
 调试模式
 
-<img width="2432" height="3634" alt="知更鸟" src="https://github.com/user-attachments/assets/8a70dcbf-9f2c-4604-9c74-dafbf840cadb" />
-
-
 🚀
