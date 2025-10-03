@@ -1,7 +1,6 @@
 # BCAS-reshade
 The most advanced bilateral filtering sharpening shader in Reshade, featuring multiple color adjustment capabilities with minimal performance overhead.
-一种结合双边滤波分解、软限制抗过冲与 SCAA边缘解析的实时锐化变种。
-目标：在增强细节的同时，最大限度抑制振铃/色度伪影/棋盘格，并提供电影级调色（可选）。
+一种结合双边滤波分解、软限制抗过冲与 SCAA边缘解析的实时锐化变种，并提供功能完善的调色（可选）。
 
 
 算法功能处理总览
