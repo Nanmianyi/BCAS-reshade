@@ -1,6 +1,5 @@
  // BCAS Workspace v1.5
  
- //此为Workspace完整版本，若只需要高质量锐化与性能可前往仅锐化版本文件
 
  // BCAS — 双边内容自适应锐化 (Bilateral Content-Adaptive Sharpening)
 // EAA-ALU — 边缘引导虚拟超采样抗锯齿 (Edge-guided virtual Upsample Anti-Aliasing, 仅ALU运算)
